@@ -1,0 +1,6 @@
+#npm i --save nodemon express
+#npm i --save-dev babel-cli babel-preset-env babel-preset-stage-0
+#npm i --save express-graphql graphql
+npm i --save graphql-tools graphql-import
+#npm i --save mongoose
+#npm i --save apollo-server-express
